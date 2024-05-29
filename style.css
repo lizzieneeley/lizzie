@@ -30,7 +30,7 @@
 }
 
 .navbar{
-    border-bottom: 1px solid rgb(161, 161, 161);
+    border-bottom: 1px solid #a1a1a1;
     font-family: Dosis;
     letter-spacing: .1rem;
 }
@@ -145,4 +145,19 @@
     font-size: 20px;
     font-weight: bold;
     margin-right: 10px;
+}
+
+footer {
+    width: 100%; /* Extend the footer across the entire width */
+    background-color: #fff;
+    color: #333;
+    text-align: left;
+    padding-left: 30px ;
+    padding-top:20px;
+    border-top: #a1a1a1 1px solid;
+}
+
+#certifications{
+    width:   496px;
+    height:356px;
 }
