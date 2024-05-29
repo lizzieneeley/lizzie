@@ -158,6 +158,12 @@ footer {
 }
 
 #certifications{
-    width:   496px;
+    width: 496px;
     height:356px;
+}
+
+#projects{
+    width: 665px;
+    height:356px;
+    padding-right: 30px;
 }
