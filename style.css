@@ -167,3 +167,8 @@ footer {
     height:356px;
     padding-right: 30px;
 }
+
+#contactDesc{
+    font-family: Questrial;
+    font-size: 25px;
+}
