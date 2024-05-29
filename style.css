@@ -172,3 +172,19 @@ footer {
     font-family: Questrial;
     font-size: 25px;
 }
+
+#onContact{
+    color: #008BF8
+}
+
+#onCertification{
+    color:#F5B700
+}
+
+#onPersonal{
+    color:#89FC00
+}
+ 
+#onProjects{
+    color:#DC0073
+}
